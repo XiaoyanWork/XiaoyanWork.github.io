@@ -43,7 +43,7 @@ To date, I have authored two papers as the first author, which have been publish
 
 [Towards Effective, Efficient and Unsupervised Social Event Detection in the Hyperbolic Space](https://arxiv.org/abs/2412.10712)
 
-**Xiaoyan Yu**, Yifan Wei, Shuaishuai Zhou, Liehuang Zhu, Philip S. Yu
+**Xiaoyan Yu**, Yifan Wei, Shuaishuai Zhou, Hao Peng, Liehuang Zhu, Philip S. Yu
 
 [[PDF]](https://arxiv.org/pdf/2412.10712) [[ArXiv]](https://arxiv.org/abs/2412.10712) [[Code]](https://github.com/XiaoyanWork/HyperSED) 
 
